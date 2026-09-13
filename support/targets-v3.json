@@ -12,7 +12,7 @@
         "size": 127024
       },
       "kernelsu": {
-        "url": "https://raw.githubusercontent.com/franchoran98/Root-My-Galaxy-Payloads-S25_FE/main/kernelsu/ksud-r13s-S731BXXS9BZH1-kdp",
+        "url": "https://raw.githubusercontent.com/franchoran98/Root-My-Galaxy-Payloads-S25_FE/main/kernelsu/ksud-r12s-S721BXXSCDZF3-kdp",
         "size": 6419768,
         "kmi": "android14-6.1",
         "managerPackage": "me.weishu.kernelsu"
