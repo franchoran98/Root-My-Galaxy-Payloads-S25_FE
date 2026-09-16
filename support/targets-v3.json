@@ -9,7 +9,7 @@
       "requiresFreshP0Session": true,
       "exploit": {
         "url": "https://raw.githubusercontent.com/franchoran98/Root-My-Galaxy-Payloads-S25_FE/main/artifacts/r13s-S731BXXS9BZH1/cve-2026-43499-app.so",
-        "size": 127024
+        "size": 141232
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/franchoran98/Root-My-Galaxy-Payloads-S25_FE/main/kernelsu/ksud-r12s-S721BXXSCDZF3-kdp",
